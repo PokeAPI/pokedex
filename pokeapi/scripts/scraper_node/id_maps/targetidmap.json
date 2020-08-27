@@ -1,0 +1,37 @@
+{"targetlist": [
+
+{"id": 2,
+    "targetname": "adjacentfoe"
+},
+{"id": 3,
+    "targetname": "adjacentally"
+},
+{"id": 4,
+    "targetname": "team"
+},
+{"id": 5,
+    "targetname": "selfadjacentally"
+},
+{"id": 6,
+    "targetname": "foes"
+},
+{"id": 7,
+    "targetname": "self"
+},
+{"id": 9,
+    "targetname": "alladjacent"
+},
+{"id": 10,
+    "targetname": "anyadjacent"
+},
+{"id": 11,
+    "targetname": "adjacentfoes"
+},
+{"id": 13,
+    "targetname": "team"
+},
+{"id": 14,
+    "targetname": "all"
+}]}
+
+
